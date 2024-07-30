@@ -1,3 +1,6 @@
 [submodule "ultrasonic-detection/components/arduino"]
 	path = ultrasonic-detection/components/arduino
 	url = git@github.com:espressif/arduino-esp32.git
+[submodule "touch-sensor/components/arduino"]
+	path = touch-sensor/components/arduino
+	url = git@github.com:espressif/arduino-esp32.git
