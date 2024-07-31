@@ -4,3 +4,6 @@
 [submodule "touch-sensor/components/arduino"]
 	path = touch-sensor/components/arduino
 	url = git@github.com:espressif/arduino-esp32.git
+[submodule "infrared-sensor/components/arduino"]
+	path = infrared-sensor/components/arduino
+	url = git@github.com:espressif/arduino-esp32.git
